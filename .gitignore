@@ -1,0 +1,11 @@
+# batch files
+*.bat
+
+# python venv files
+Include
+Lib
+Scripts
+pyvenv.cfg
+
+# bot files
+token.txt
